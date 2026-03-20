@@ -7,7 +7,7 @@ PowerLevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-th
 
 ```json
 "features": {
-    "ghcr.io/schlich/devcontainer-features/powerlevel10k:1": {}
+    "ghcr.io/kohanyirobert/devcontainer-features/powerlevel10k:1": {}
 }
 ```
 
@@ -17,4 +17,4 @@ PowerLevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-th
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/schlich/devcontainer-features/blob/main/src/powerlevel10k/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kohanyirobert/devcontainer-features/blob/main/src/powerlevel10k/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
