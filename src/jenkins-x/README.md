@@ -7,7 +7,7 @@ CI/CD for Kubernetes
 
 ```json
 "features": {
-    "ghcr.io/schlich/devcontainer-features/jenkins-x:1": {}
+    "ghcr.io/kohanyirobert/devcontainer-features/jenkins-x:1": {}
 }
 ```
 
@@ -17,4 +17,4 @@ CI/CD for Kubernetes
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/schlich/devcontainer-features/blob/main/src/jenkins-x/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kohanyirobert/devcontainer-features/blob/main/src/jenkins-x/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

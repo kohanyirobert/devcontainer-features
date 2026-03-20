@@ -7,7 +7,7 @@ A version control system.
 
 ```json
 "features": {
-    "ghcr.io/schlich/devcontainer-features/jujutsu:0": {}
+    "ghcr.io/kohanyirobert/devcontainer-features/jujutsu:0": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A version control system.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/schlich/devcontainer-features/blob/main/src/jujutsu/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kohanyirobert/devcontainer-features/blob/main/src/jujutsu/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

@@ -7,7 +7,7 @@ The digital motion and assembly system.
 
 ```json
 "features": {
-    "ghcr.io/schlich/devcontainer-features/openslides:1": {}
+    "ghcr.io/kohanyirobert/devcontainer-features/openslides:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ The digital motion and assembly system.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/schlich/devcontainer-features/blob/main/src/openslides/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kohanyirobert/devcontainer-features/blob/main/src/openslides/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

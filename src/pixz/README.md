@@ -7,7 +7,7 @@ A parallel, indexed xz compressor
 
 ```json
 "features": {
-    "ghcr.io/schlich/devcontainer-features/pixz:0": {}
+    "ghcr.io/kohanyirobert/devcontainer-features/pixz:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ A parallel, indexed xz compressor
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/schlich/devcontainer-features/blob/main/src/pixz/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/kohanyirobert/devcontainer-features/blob/main/src/pixz/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
